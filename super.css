@@ -258,3 +258,48 @@ ul li h6{
 }
 
 
+.aboutbox{
+    display: flex;
+    width: 85%;
+    margin: 50px auto;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+
+.about{
+    width: 50%;
+}
+
+.aboutimg{
+    width: 70%;
+    height: 100%;
+    object-fit: contain;
+    margin-left: 100px;
+}
+
+.about h1{
+    font-weight: 700;
+    font-size: 3rem;
+    margin: 0px;
+}
+
+.about p{
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    width: 100%;
+}
+
+footer{
+    padding: 20px;
+    background-color: #000000 !important;
+}
+
+footer p{
+    text-align: center;
+    color: #FFFFFF;
+}
+
